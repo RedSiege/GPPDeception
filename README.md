@@ -5,7 +5,7 @@ Blue teams can use this file as a <a href="https://blog.code42.com/using-honey-f
 By monitoring for access to the file, Blue Teams can detect pen testers or malicious actors scanning for GPP files containing usernames
 and cpasswords for lateral movment.  
 
-Blue Teams can also monitor for use of the credentials as <a href="https://www.sans.org/reading-room/whitepapers/attacking/catching-flies-guide-flavors-honeypots-36897"honeycreds</a>.
+Blue Teams can also monitor for use of the credentials as <a href="https://www.sans.org/reading-room/whitepapers/attacking/catching-flies-guide-flavors-honeypots-36897">honeycreds</a>.
 
 # Usage
 Invoke-GPPDeception -Plaintext plaintextpassword -UserName honeycredaccount
